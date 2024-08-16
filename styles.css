@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    font-family: Arial, sans-serif; /* Arial font for the entire page */
+}
+
+h1 {
+    color: #333333; /* Dark grey text color */
+    text-align: center; /* Centered text */
+}
+
+p {
+    color: #555555; /* Slightly lighter grey text color */
+    line-height: 1.5; /* Spacing between lines */
+    margin: 20px; /* Space around the paragraphs */
+    text-align: center;
+}
